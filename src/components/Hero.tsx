@@ -24,13 +24,13 @@ export default function Hero() {
               которые снимают рутину
             </span>
             <br />
-            <span className="whitespace-nowrap">с вашей команды</span>
+            с вашей команды
           </h1>
 
           <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
-            От идеи до готового продукта — через ИИ за дни, трекеры задач, CRM-системы, админ-панели, <span className="whitespace-nowrap">чат-боты.</span>
+            От идеи до готового продукта — через ИИ за дни, трекеры задач, CRM-системы, админ-панели, чат-боты.
             <br />
-            <span className="whitespace-nowrap">А не месяцы.</span>
+            а не месяцы.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
