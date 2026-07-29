@@ -27,8 +27,8 @@ export default function Hero() {
             с вашей команды
           </h1>
 
-          <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
-            От идеи до готового продукта — через ИИ за <span className="whitespace-nowrap">дни, а не месяцы.</span>
+          <p className="text-xl md:text-2xl text-slate-300 mb-10 leading-relaxed">
+            <span className="whitespace-nowrap">От идеи до готового продукта — через ИИ за дни, а не месяцы.</span>
             <br />
             Трекеры задач, CRM-системы, админ-панели, чат-боты.
           </p>
