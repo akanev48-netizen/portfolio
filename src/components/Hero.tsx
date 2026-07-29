@@ -19,16 +19,18 @@ export default function Hero() {
           </p>
 
           <h1 className="text-5xl md:text-7xl font-bold leading-tight mb-8">
-            Создаю веб-приложения,{' '}
+            Создаю <span className="whitespace-nowrap">веб-приложения,</span>{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-cyan-400">
               которые снимают рутину
-            </span>{' '}
-            с вашей команды
+            </span>
+            <br />
+            <span className="whitespace-nowrap">с вашей команды</span>
           </h1>
 
           <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
-            От идеи до готового продукта — через ИИ за дни, а не месяцы.
-            Трекеры задач, CRM-системы, админ-панели, чат-боты.
+            От идеи до готового продукта — через ИИ за дни, трекеры задач, CRM-системы, админ-панели, <span className="whitespace-nowrap">чат-боты.</span>
+            <br />
+            <span className="whitespace-nowrap">А не месяцы.</span>
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
