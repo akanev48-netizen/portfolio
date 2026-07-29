@@ -29,6 +29,8 @@ export default function Hero() {
 
           <p className="text-xl md:text-2xl text-slate-300 mb-10 max-w-2xl mx-auto leading-relaxed">
             От идеи до готового продукта — через ИИ за дни, а не месяцы.
+            <br />
+            Трекеры задач, CRM-системы, админ-панели, чат-боты.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
